@@ -2,7 +2,7 @@
 
 ## Downloading our software
 
-The latest version can be either downloaded as a release, or you can run:
+The latest version can be either downloaded as the judging release, or you can run:
 
 ```
 $ git clone https://github.com/igemsoftware2019/Team_Rice_Software.git
