@@ -36,7 +36,7 @@ def main():
 		ngen = int(values[3])
 		cxpb = float(values[4])
 		mutpb = float(values[5])
-		otmut = 1 - (mutpb + float(values[6]))
+		otmut = float(values[6])
 
 		upper_temp = int(values[7])
 		lower_temp = int(values[8])
