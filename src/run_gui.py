@@ -1,4 +1,4 @@
-import PySimpleGui as sg
+import PySimpleGUI as sg
 import create_thermometers as tm
 
 layout = [[sg.Text("---Please enter your sequences---")],
@@ -59,3 +59,6 @@ def main():
 			break
 
 	window.Close()
+
+if __name__ == "__main__":
+	main()

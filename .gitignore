@@ -1,3 +1,11 @@
+# nupack files
+*.in
+*.ocx
+*.ocx-epairs
+*.ocx-key
+*.ocx-mfe
+*.ocx-ppairs
+
 # General
 .DS_Store
 .AppleDouble
